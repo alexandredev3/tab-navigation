@@ -17,7 +17,7 @@
  </p>
 
 <h1 align="center">
-  <img src="https://github.com/alexandredev3/tab-navigation/blob/master/tab-navigation.png"/>
+  <img src="https://github.com/alexandredev3/tab-navigation/blob/master/tab-navigation-photo.png"/>
 </h1>
 
 ## :computer: Languages
